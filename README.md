@@ -53,3 +53,8 @@ Todas las imágenes son generadas de forma aleatoria desde links que llevan a:
 
 -   Imágenes de "posts" y "videos": https://picsum.photos
 -   Imágenes de perfil de usuarios: https://i.pravatar.cc
+
+## Imágenes
+<img src="/relaciones1.png" style="width: 50%" />
+<img src="/relaciones2.png" style="width: 50%" />
+<img src="/relaciones3.png" style="width: 50%" />
